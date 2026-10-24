@@ -32,3 +32,4 @@ main.pdf
 
 # lets ignore all files in the references for now
 texdocs/references
+uv.lock
